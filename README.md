@@ -1,3 +1,5 @@
+> **Guia em português deste fork:** [como este projeto pode nos ajudar, ideias de adaptação e diário de estudos](./README-PT-BR.md).
+
 # Dockercraft
 
 ![Dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/logo.png?raw=true)
@@ -160,3 +162,4 @@ end
 Want to hack on Dockercraft? [Docker's contributions guidelines](https://github.com/docker/docker/blob/master/CONTRIBUTING.md) apply.
 
 ![Dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true)
+
